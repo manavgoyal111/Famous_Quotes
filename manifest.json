@@ -1,12 +1,12 @@
 {
-    "name": "Famous Quote",
-    "version": "0.0.1",
-    "manifest_version": 2,
-    "browser_action": {
-        "default_popup": "popup.html",
-        "default_icon": "logo.png"
-    },
-    "icons": {
-        "128": "logo.png"
-    }
+	"name": "Famous Quotes",
+	"version": "1.0.0",
+	"manifest_version": 2,
+	"browser_action": {
+		"default_popup": "index.html",
+		"default_icon": "logo.png"
+	},
+	"icons": {
+		"128": "logo.png"
+	}
 }
