@@ -8,5 +8,11 @@
 	padding: 1rem;
 	width: 20rem;
 	min-height: 20rem;
-	font-size: 1.5rem;
+	font-size: clamp(1.5rem, 3vw, 3rem)
+}
+
+@media screen and (max-width: 400px) {
+  .quoteContainer {
+    width: 15rem;
+  }
 }
