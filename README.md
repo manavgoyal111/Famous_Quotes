@@ -1,7 +1,4 @@
-# Famous Quotes
+# Famous Quotes - A Browser Extension
 
-### A Browser Extension
+-  Gets a Quote by a Famous person on a single click
 
-### Gets a Quote by a Famous person on a single click
-
-### Tech Involved: HTML, CSS, JavaScript
